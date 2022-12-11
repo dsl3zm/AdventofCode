@@ -17,6 +17,7 @@ with open(filename) as file:
             else:
                 if total_contents[j] in backpack_dictionary:
                     shared_characters.append(total_contents[j])
+                if
         
 
 #pt1
